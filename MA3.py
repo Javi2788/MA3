@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 """ MA3.py
 
 Student: Jakob Victorin
